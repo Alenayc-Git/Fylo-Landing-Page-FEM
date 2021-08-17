@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/fylo-landing-page-oYMIHbpfm)
 - Live Site URL: [Live site URL](https://fylo-landing-page-alenayc.netlify.app/)
 
 ## My process
